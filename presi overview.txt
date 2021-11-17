@@ -1,0 +1,26 @@
+Magic the Regular Language-ing
+	
+	To play a card
+		Quick overview of playing 1/1 that makes a 1/1
+
+	A problem card games have
+		Bugs that *should* affect a bunch of cards, but... don't
+		Inconsistent terminology
+		StS Codebase
+
+	Overview/Definition of Regular Language
+		FSA
+		Regular Grammar
+		
+	Magic the Gathering Rules Templating Over the Years
+		StP
+		Control Magic
+		Kjeldoran Warlord
+		
+	Breakdown of a Magic Card rules text
+		DIAGRAMS
+	
+	A simple FSA / Regular Grammar for a Magic Card
+		CODE WALKTHROUGH
+		
+	Q&A
