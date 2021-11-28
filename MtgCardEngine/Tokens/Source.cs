@@ -20,11 +20,11 @@ namespace MtgCardEngine.Tokens
         {
             if(Value == "SELF")
             {
-                return "When this creature";
+                return "When this effect";
             }
             else if (Value == "OTHERCREATURE")
             {
-                return "When another creature";
+                return "When a creature";
             }
             else
             {
