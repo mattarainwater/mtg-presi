@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtgCardEngine", "MtgCardEngine.csproj", "{B39D35D8-0EF9-467F-8493-11559B191069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39D35D8-0EF9-467F-8493-11559B191069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39D35D8-0EF9-467F-8493-11559B191069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39D35D8-0EF9-467F-8493-11559B191069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39D35D8-0EF9-467F-8493-11559B191069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DEB432F-94C0-4C51-8AA4-3D144BFBAF1D}
+	EndGlobalSection
+EndGlobal
